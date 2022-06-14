@@ -54,7 +54,7 @@
 
             </li>
             <li class="" data-transition="Fade Boxes">
-                <img src="img/demos/architecture-interior/slides/sld2.webp"  
+                <img src="img/demos/architecture-interior/slides/sld3.webp"  
                     alt=""
                     data-bgposition="center center" 
                     data-bgfit="cover" 
@@ -145,7 +145,7 @@
                         <div class="featured-box featured-box-primary featured-box-effect-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">
                             <div class="box-content">
                                 <svg class="mb-3" enable-background="new 0 0 24 24" height="88px" version="1.1" viewBox="0 0 24 24" width="88px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M18,11h-5v5h5V11z M15,15h-1v-3h1V15z M17,15h-1v-3h1V15z"/><path d="M23,22h-1v-9.2l0.3,0.3c0.4,0.4,1,0.4,1.4,0l0,0c0.4-0.4,0.4-1,0-1.4L12,0L7,5V3c0.6,0,1-0.4,1-1V1c0-0.6-0.4-1-1-1H3   C2.4,0,2,0.4,2,1v1c0,0.6,0.4,1,1,1v6l-2.7,2.7c-0.4,0.4-0.4,1,0,1.4l0,0c0.4,0.4,1,0.4,1.4,0L2,12.8V22H1c-0.6,0-1,0.4-1,1v1h24   v-1C24,22.4,23.6,22,23,22z M12,2.8l8,8V22h-9v-8H6v8H4V10.8L12,2.8z M10,19v3H7v-7h3v3H9v1H10z M4,8V3h2v3L4,8z M3,1h4v1H3V1z"/></g></svg>
-                                <h3 class="font-weight-bold text-color-light text-5 text-capitalize ls-0 my-3">Home Projects</h3>
+                                <h3 class="font-weight-bold text-color-light text-5 text-capitalize ls-0 my-3">Architectural Design</h3>
                                 <p class="font-weight-light text-color-light opacity-5 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing eli blandit massa im. </p>
                             </div>
                         </div>
@@ -156,7 +156,7 @@
                         <div class="featured-box featured-box-primary featured-box-effect-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
                             <div class="box-content">
                                 <svg class="mb-3" enable-background="new 0 0 24 24" height="88px" version="1.1" viewBox="0 0 24 24" width="88px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M23,10h-5V1c0-0.6-0.4-1-1-1H7C6.4,0,6,0.4,6,1v9H1c-0.6,0-1,0.4-1,1v13h24V11C24,10.4,23.6,10,23,10z M2,22V12h4v10H2z    M8,22V11V2h8v9v11H8z M18,22V12h4v10H18z"/><rect height="2" width="1" x="4" y="13"/><rect height="2" width="1" x="4" y="16"/><rect height="2" width="1" x="19" y="13"/><rect height="2" width="1" x="19" y="16"/><rect height="2" width="1" x="10" y="4"/><rect height="2" width="1" x="10" y="7"/><rect height="2" width="1" x="10" y="10"/><rect height="2" width="1" x="10" y="13"/><rect height="2" width="1" x="10" y="16"/><rect height="2" width="1" x="13" y="4"/><rect height="2" width="1" x="13" y="7"/><rect height="2" width="1" x="13" y="10"/><rect height="2" width="1" x="13" y="13"/><rect height="2" width="1" x="13" y="16"/></g></svg>
-                                <h3 class="font-weight-bold text-color-light text-5 text-capitalize ls-0 my-3">Building Projects</h3>
+                                <h3 class="font-weight-bold text-color-light text-5 text-capitalize ls-0 my-3">Interior Design</h3>
                                 <p class="font-weight-light text-color-light opacity-5 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing eli blandit massa im. </p>
                             </div>
                         </div>
@@ -167,7 +167,7 @@
                         <div class="featured-box featured-box-primary featured-box-effect-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">
                             <div class="box-content">
                                 <svg class="mb-3" enable-background="new 0 0 24 24" height="88px" version="1.1" viewBox="0 0 24 24" width="88px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M21,7.2c-0.4,0-0.7,0.1-1,0.2V5c0-2.8-2.2-5-5-5H9C6.2,0,4,2.2,4,5v2.4C3.7,7.3,3.4,7.2,3,7.2c-1.7,0-3,1.3-3,3   c0,1.3,0.8,2.4,2,2.8c0,0,0,7,0,8s1,1,1,1h3v2h4v-2h4v2h4v-2h3c0,0,1,0,1-1s0-8,0-8c1.2-0.4,2-1.5,2-2.8C24,8.5,22.7,7.2,21,7.2z    M6,5c0-1.7,1.3-3,3-3h6c1.7,0,3,1.3,3,3v5v5H6v-5V5z M4,20c0,0,0-6.8,0-7.8s-1-1-1-1c-0.6,0-1-0.4-1-1s0.4-1.1,1-1.1S4,10,4,10h1   v10H4z M9,23H7v-1h2V23z M17,23h-2v-1h2V23z M6,20v-4h12v4H6z M21,11.2c0,0-1,0-1,1s0,7.8,0,7.8h-1V10h1c0,0,0.4-0.9,1-0.9   s1,0.5,1,1S21.6,11.2,21,11.2z"/></g></svg>
-                                <h3 class="font-weight-bold text-color-light text-5 text-capitalize ls-0 my-3">Interior Projects</h3>
+                                <h3 class="font-weight-bold text-color-light text-5 text-capitalize ls-0 my-3">Luxury</h3>
                                 <p class="font-weight-light text-color-light opacity-5 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing eli blandit massa im. </p>
                             </div>
                         </div>
@@ -178,7 +178,73 @@
                         <div class="featured-box featured-box-primary featured-box-effect-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
                             <div class="box-content">
                                 <svg class="mb-3" enable-background="new 0 0 24 24" height="88px" version="1.1" viewBox="0 0 24 24" width="88px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M23,11H3V3c0-1.1,0.9-2,2-2s2,0.9,2,2v1.1C6.6,4.2,6.2,4.6,6.1,5h2.8C8.8,4.6,8.4,4.2,8,4.1V3c0-1.7-1.3-3-3-3S2,1.3,2,3v8  H1c-0.6,0-1,0.4-1,1v4c0,2.2,1.2,4.2,3,5.2V22c0,1.1,0.9,2,2,2s2-0.9,2-2h10c0,1.1,0.9,2,2,2s2-0.9,2-2v-0.8c1.8-1,3-3,3-5.2v-4  C24,11.4,23.6,11,23,11z M5,23c-0.6,0-1-0.4-1-1v-0.3C4.6,21.9,5.3,22,6,22C6,22.6,5.6,23,5,23z M20,22c0,0.6-0.4,1-1,1s-1-0.4-1-1  c0.7,0,1.4-0.1,2-0.3V22z M22,16c0,2.2-1.8,4-4,4H6c-2.2,0-4-1.8-4-4v-1h20V16z M22,14H2v-1h20V14z"/></svg>
-                                <h3 class="font-weight-bold text-color-light text-5 text-capitalize ls-0 my-3">Custom Projects</h3>
+                                <h3 class="font-weight-bold text-color-light text-5 text-capitalize ls-0 my-3">Retail</h3>
+                                <p class="font-weight-light text-color-light opacity-5 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing eli blandit massa im. </p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 col-xl-3">
+                    <a href="/" class="text-decoration-none simple-ajax-popup">
+                        <div class="featured-box featured-box-primary featured-box-effect-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
+                            <div class="box-content">
+                                <svg class="mb-3" enable-background="new 0 0 24 24" height="88px" version="1.1" viewBox="0 0 24 24" width="88px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M18,11h-5v5h5V11z M15,15h-1v-3h1V15z M17,15h-1v-3h1V15z"/><path d="M23,22h-1v-9.2l0.3,0.3c0.4,0.4,1,0.4,1.4,0l0,0c0.4-0.4,0.4-1,0-1.4L12,0L7,5V3c0.6,0,1-0.4,1-1V1c0-0.6-0.4-1-1-1H3   C2.4,0,2,0.4,2,1v1c0,0.6,0.4,1,1,1v6l-2.7,2.7c-0.4,0.4-0.4,1,0,1.4l0,0c0.4,0.4,1,0.4,1.4,0L2,12.8V22H1c-0.6,0-1,0.4-1,1v1h24   v-1C24,22.4,23.6,22,23,22z M12,2.8l8,8V22h-9v-8H6v8H4V10.8L12,2.8z M10,19v3H7v-7h3v3H9v1H10z M4,8V3h2v3L4,8z M3,1h4v1H3V1z"/></g></svg>
+                                <h3 class="font-weight-bold text-color-light text-5 text-capitalize ls-0 my-3">Restaturants & Cafe</h3>
+                                <p class="font-weight-light text-color-light opacity-5 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing eli blandit massa im. </p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 col-xl-3">
+                    <a href="ajax/demo-architecture-interior-ajax-services-detail.html" class="text-decoration-none simple-ajax-popup">
+                        <div class="featured-box featured-box-primary featured-box-effect-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
+                            <div class="box-content">
+                                <svg class="mb-3" enable-background="new 0 0 24 24" height="88px" version="1.1" viewBox="0 0 24 24" width="88px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M23,11H3V3c0-1.1,0.9-2,2-2s2,0.9,2,2v1.1C6.6,4.2,6.2,4.6,6.1,5h2.8C8.8,4.6,8.4,4.2,8,4.1V3c0-1.7-1.3-3-3-3S2,1.3,2,3v8  H1c-0.6,0-1,0.4-1,1v4c0,2.2,1.2,4.2,3,5.2V22c0,1.1,0.9,2,2,2s2-0.9,2-2h10c0,1.1,0.9,2,2,2s2-0.9,2-2v-0.8c1.8-1,3-3,3-5.2v-4  C24,11.4,23.6,11,23,11z M5,23c-0.6,0-1-0.4-1-1v-0.3C4.6,21.9,5.3,22,6,22C6,22.6,5.6,23,5,23z M20,22c0,0.6-0.4,1-1,1s-1-0.4-1-1  c0.7,0,1.4-0.1,2-0.3V22z M22,16c0,2.2-1.8,4-4,4H6c-2.2,0-4-1.8-4-4v-1h20V16z M22,14H2v-1h20V14z"/></svg>
+                                <h3 class="font-weight-bold text-color-light text-5 text-capitalize ls-0 my-3">Hospitality</h3>
+                                <p class="font-weight-light text-color-light opacity-5 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing eli blandit massa im. </p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 col-xl-3">
+                    <a href="ajax/demo-architecture-interior-ajax-services-detail.html" class="text-decoration-none simple-ajax-popup">
+                        <div class="featured-box featured-box-primary featured-box-effect-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
+                            <div class="box-content">
+                                <svg class="mb-3" enable-background="new 0 0 24 24" height="88px" version="1.1" viewBox="0 0 24 24" width="88px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M23,10h-5V1c0-0.6-0.4-1-1-1H7C6.4,0,6,0.4,6,1v9H1c-0.6,0-1,0.4-1,1v13h24V11C24,10.4,23.6,10,23,10z M2,22V12h4v10H2z    M8,22V11V2h8v9v11H8z M18,22V12h4v10H18z"/><rect height="2" width="1" x="4" y="13"/><rect height="2" width="1" x="4" y="16"/><rect height="2" width="1" x="19" y="13"/><rect height="2" width="1" x="19" y="16"/><rect height="2" width="1" x="10" y="4"/><rect height="2" width="1" x="10" y="7"/><rect height="2" width="1" x="10" y="10"/><rect height="2" width="1" x="10" y="13"/><rect height="2" width="1" x="10" y="16"/><rect height="2" width="1" x="13" y="4"/><rect height="2" width="1" x="13" y="7"/><rect height="2" width="1" x="13" y="10"/><rect height="2" width="1" x="13" y="13"/><rect height="2" width="1" x="13" y="16"/></g></svg>
+                                <h3 class="font-weight-bold text-color-light text-5 text-capitalize ls-0 my-3">Fit-out Services</h3>
+                                <p class="font-weight-light text-color-light opacity-5 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing eli blandit massa im. </p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 col-xl-3">
+                    <a href="ajax/demo-architecture-interior-ajax-services-detail.html" class="text-decoration-none simple-ajax-popup">
+                        <div class="featured-box featured-box-primary featured-box-effect-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
+                            <div class="box-content">
+                                <svg class="mb-3" enable-background="new 0 0 24 24" height="88px" version="1.1" viewBox="0 0 24 24" width="88px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M21,7.2c-0.4,0-0.7,0.1-1,0.2V5c0-2.8-2.2-5-5-5H9C6.2,0,4,2.2,4,5v2.4C3.7,7.3,3.4,7.2,3,7.2c-1.7,0-3,1.3-3,3   c0,1.3,0.8,2.4,2,2.8c0,0,0,7,0,8s1,1,1,1h3v2h4v-2h4v2h4v-2h3c0,0,1,0,1-1s0-8,0-8c1.2-0.4,2-1.5,2-2.8C24,8.5,22.7,7.2,21,7.2z    M6,5c0-1.7,1.3-3,3-3h6c1.7,0,3,1.3,3,3v5v5H6v-5V5z M4,20c0,0,0-6.8,0-7.8s-1-1-1-1c-0.6,0-1-0.4-1-1s0.4-1.1,1-1.1S4,10,4,10h1   v10H4z M9,23H7v-1h2V23z M17,23h-2v-1h2V23z M6,20v-4h12v4H6z M21,11.2c0,0-1,0-1,1s0,7.8,0,7.8h-1V10h1c0,0,0.4-0.9,1-0.9   s1,0.5,1,1S21.6,11.2,21,11.2z"/></g></svg>
+                                <h3 class="font-weight-bold text-color-light text-5 text-capitalize ls-0 my-3">Hospital/Clinic Interiors</h3>
+                                <p class="font-weight-light text-color-light opacity-5 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing eli blandit massa im. </p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 col-xl-3">
+                    <a href="ajax/demo-architecture-interior-ajax-services-detail.html" class="text-decoration-none simple-ajax-popup">
+                        <div class="featured-box featured-box-primary featured-box-effect-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
+                            <div class="box-content">
+                                <svg class="mb-3" enable-background="new 0 0 24 24" height="88px" version="1.1" viewBox="0 0 24 24" width="88px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M18,11h-5v5h5V11z M15,15h-1v-3h1V15z M17,15h-1v-3h1V15z"/><path d="M23,22h-1v-9.2l0.3,0.3c0.4,0.4,1,0.4,1.4,0l0,0c0.4-0.4,0.4-1,0-1.4L12,0L7,5V3c0.6,0,1-0.4,1-1V1c0-0.6-0.4-1-1-1H3   C2.4,0,2,0.4,2,1v1c0,0.6,0.4,1,1,1v6l-2.7,2.7c-0.4,0.4-0.4,1,0,1.4l0,0c0.4,0.4,1,0.4,1.4,0L2,12.8V22H1c-0.6,0-1,0.4-1,1v1h24   v-1C24,22.4,23.6,22,23,22z M12,2.8l8,8V22h-9v-8H6v8H4V10.8L12,2.8z M10,19v3H7v-7h3v3H9v1H10z M4,8V3h2v3L4,8z M3,1h4v1H3V1z"/></g></svg>
+                                <h3 class="font-weight-bold text-color-light text-5 text-capitalize ls-0 my-3">Spa & Gym</h3>
+                                <p class="font-weight-light text-color-light opacity-5 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing eli blandit massa im. </p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 col-xl-3">
+                    <a href="ajax/demo-architecture-interior-ajax-services-detail.html" class="text-decoration-none simple-ajax-popup">
+                        <div class="featured-box featured-box-primary featured-box-effect-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
+                            <div class="box-content">
+                                <svg class="mb-3" enable-background="new 0 0 24 24" height="88px" version="1.1" viewBox="0 0 24 24" width="88px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M23,11H3V3c0-1.1,0.9-2,2-2s2,0.9,2,2v1.1C6.6,4.2,6.2,4.6,6.1,5h2.8C8.8,4.6,8.4,4.2,8,4.1V3c0-1.7-1.3-3-3-3S2,1.3,2,3v8  H1c-0.6,0-1,0.4-1,1v4c0,2.2,1.2,4.2,3,5.2V22c0,1.1,0.9,2,2,2s2-0.9,2-2h10c0,1.1,0.9,2,2,2s2-0.9,2-2v-0.8c1.8-1,3-3,3-5.2v-4  C24,11.4,23.6,11,23,11z M5,23c-0.6,0-1-0.4-1-1v-0.3C4.6,21.9,5.3,22,6,22C6,22.6,5.6,23,5,23z M20,22c0,0.6-0.4,1-1,1s-1-0.4-1-1  c0.7,0,1.4-0.1,2-0.3V22z M22,16c0,2.2-1.8,4-4,4H6c-2.2,0-4-1.8-4-4v-1h20V16z M22,14H2v-1h20V14z"/></svg>
+                                <h3 class="font-weight-bold text-color-light text-5 text-capitalize ls-0 my-3">Swimming Pool</h3>
                                 <p class="font-weight-light text-color-light opacity-5 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing eli blandit massa im. </p>
                             </div>
                         </div>
@@ -212,10 +278,10 @@
 
             <div class="col-lg-4 isotope-item">
                 <div class="portfolio-item">
-                    <a href="demo-architecture-interior-projects-detail.html" class="text-decoration-none">
+                    <a href="/" class="text-decoration-none">
                         <span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-bottom-info thumb-info-bottom-info-dark thumb-info-bottom-info-dark-linear custom-thumb-info-style-1">
                             <span class="thumb-info-wrapper">
-                                <img src="img/demos/architecture-interior/projects/project-1.jpg" class="img-fluid" alt="">
+                                <img src="img/demos/architecture-interior/projects/project-1.webp" class="img-fluid" alt="">
                                 <span class="thumb-info-title text-start">
                                     <span class="thumb-info-inner font-weight-bold line-height-1 text-4 mb-3">Project Name</span>
                                     <span class="thumb-info-type text-transform-none font-weight-light text-1 line-height-7 pe-xl-5 me-5">Lorem ipsum dolor sit amet, consectetur adipiscing eli blandit massa im. </span>
@@ -230,7 +296,7 @@
                     <a href="demo-architecture-interior-projects-detail.html" class="text-decoration-none">
                         <span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-bottom-info thumb-info-bottom-info-dark thumb-info-bottom-info-dark-linear custom-thumb-info-style-1">
                             <span class="thumb-info-wrapper">
-                                <img src="img/demos/architecture-interior/projects/project-2.jpg" class="img-fluid" alt="">
+                                <img src="img/demos/architecture-interior/projects/project-2.webp" class="img-fluid" alt="">
                                 <span class="thumb-info-title text-start">
                                     <span class="thumb-info-inner font-weight-bold line-height-1 text-4 mb-3">Project Name</span>
                                     <span class="thumb-info-type text-transform-none font-weight-light text-1 line-height-7 pe-xl-5 me-5">Lorem ipsum dolor sit amet, consectetur adipiscing eli blandit massa im. </span>
@@ -245,7 +311,7 @@
                     <a href="demo-architecture-interior-projects-detail.html" class="text-decoration-none">
                         <span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-bottom-info thumb-info-bottom-info-dark thumb-info-bottom-info-dark-linear custom-thumb-info-style-1">
                             <span class="thumb-info-wrapper">
-                                <img src="img/demos/architecture-interior/projects/project-3.jpg" class="img-fluid" alt="">
+                                <img src="img/demos/architecture-interior/projects/project-3.webp" class="img-fluid" alt="">
                                 <span class="thumb-info-title text-start">
                                     <span class="thumb-info-inner font-weight-bold line-height-1 text-4 mb-3">Project Name</span>
                                     <span class="thumb-info-type text-transform-none font-weight-light text-1 line-height-7 pe-xl-5 me-lg-5">Lorem ipsum dolor sit amet, consectetur adipiscing eli blandit massa im. </span>
@@ -281,7 +347,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-9 col-xl-6 text-center">
                 <span class="text-color-primary custom-font-secondary font-weight-semibold">THE BEST CHOICE</span>
-                <h2 class="text-color-light font-weight-bold pb-3 mb-3">Why Hire Us?</h2>
+                <h2 class="text-color-light font-weight-bold pb-3 mb-3">Why Choose Us?</h2>
                 <p class="font-weight-light text-color-light line-height-9 text-4 mb-5">Lorem ipsum dolor sit amet, consectetur adipiscing eli blandit massa im. Nullam id varius nunc. Vivamus bibendum mex, et faucibus lacus venena bibendum mex.</p>
             </div>
         </div>

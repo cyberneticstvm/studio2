@@ -8,9 +8,9 @@
 
 		<title>Demo Architecture & Interior Design | Porto - Multipurpose Website Template</title>	
 
-		<meta name="keywords" content="WebSite Template" />
-		<meta name="description" content="Porto - Multipurpose Website Template">
-		<meta name="author" content="okler.net">
+		<meta name="keywords" content="Interior Design, Exterior Design" />
+		<meta name="description" content="Studio1 Creators">
+		<meta name="author" content="cybernetics.me">
 
 		<!-- Favicon -->
 		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
